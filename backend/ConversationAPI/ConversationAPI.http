@@ -1,0 +1,6 @@
+@ConversationAPI_HostAddress = http://localhost:5090
+
+GET {{ConversationAPI_HostAddress}}/api/Analysis/
+Accept: application/json
+
+###
